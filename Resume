@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY RESUME</title>
+</head>
+<body>
+	<h1 align="center">RAMA BHARGAVI BATHINI</h1>
+	<p><b>NAME:</b>B.Rama Bhargavi</p>
+	<p><b>Mobile:</b>8688453686</p>
+	<p><b>Email:</b>bhargavi123@gmail.com</p><br><hr>
+	<h1><u>CAREER OBJECTIVE:</u></h1>
+	<P>To work in my learning and challenging Environment ,utilizing my skills and knowledge to the best of my abilities and contribute positively to my personal growth and as growth of the organization.</p><br>
+	<h1><u>ACADEMIC QUALIFICATION:</u></h1>
+	<table>
+		<tr>
+			<th>QUALIFICATION</th>
+			<th>SCHOOL/COLLEGE</th>
+			<th>BOARD/UNIVERSITY</th>
+			<th>PERCENTAGE % OR CGPA</th>
+			<th>YEAR OF PASSING</th>
+		</tr>
+		<tr>
+			<td>B.Tech(CSE)</td>
+			<td>Vignan Nirula Institute of Technology and Science for Women,Guntur</td>
+			<td>JNTU Kakinada</td>
+			<td>8.77/10(till date)</td>
+			<td>2025</td>
+		</tr>
+		<tr>
+			<td>Intermediate(MPC)</td>
+			<td>A.P.Model school&Junior college,Racherla</td>
+			<td>Board of Intermediate Education AP</td>
+			<td>96.4/100</td>
+			<td>2021</td>
+		</tr>
+		<tr>
+			<td>SSC</td>
